@@ -6,4 +6,4 @@
 ![Última atualização](https://img.shields.io/github/last-commit/joaodutra88/S206-L1)
 
 
-Repositório testes e aprendizado com o cypress. 
+Repositório para testes e aprendizado com o cypress. 
